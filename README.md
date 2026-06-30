@@ -72,7 +72,6 @@ AI Agent-based recruitment assistant for banking HR workflows, featuring CV anal
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoangZuzi-14&show_icons=true&theme=default&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangZuzi-14&hide_border=true" width="48%"/>
 </p>
 
