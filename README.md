@@ -21,7 +21,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🛡️ [SOC-grade Deep Learning Anomaly Detection](https://github.com/HoangZuzi-14)
+#### 🛡️ [SOC-grade Deep Learning Anomaly Detection](https://github.com/HoangZuzi-14/SOC-grade-Deep-Learning-Anomaly-Detection)
 `Python` `PyTorch` `Scikit-learn` `Unsupervised Learning`
 End-to-end ML pipeline (log ingestion → autoencoder → threshold alert) trained on 10,000+ network traffic records, achieving **>97% accuracy** detecting unlabeled anomalies — deployable as a standalone SOC module. *(University Course Project — Team Lead)*
 
@@ -29,15 +29,7 @@ End-to-end ML pipeline (log ingestion → autoencoder → threshold alert) train
 `Python` `OWASP Top 10` `Requests` `BeautifulSoup`
 Automated scanner that crawls every endpoint on a target host and tests against the full OWASP Top 10 (SQLi, XSS, IDOR, etc.), generating structured vulnerability reports for fast triage.
 
-#### 📡 [SNMP Network Monitoring System](https://github.com/HoangZuzi-14)
-`Python` `SNMP` `MIB` `Trap Listener` `Dashboard`
-Zero-config tool that auto-discovers all LAN devices, aggregates metadata into a dashboard, and runs a real-time SNMP trap listener for sub-second incident alerts.
-
-#### 🖥️ Browser Fingerprinting via CPU & Cache Side-Channel
-`Python` `JavaScript` `Machine Learning` `Side-Channel Analysis`
-Research project collecting CPU interrupt & cache-timing traces during page loads, training a classifier to identify visited websites purely from side-channel signals — no HTTP inspection required.
-
-#### 📷 [Face Recognition Attendance System](https://github.com/HoangZuzi-14)
+#### 📷 [Face Recognition Attendance System](https://github.com/HoangZuzi-14/Face-Recognition-Attendance-System)
 `Python` `DeepFace (ArcFace)` `MTCNN` `OpenCV` `SQLite` `Streamlit`
 End-to-end attendance pipeline: enrollment → MTCNN 5-point face detection → ArcFace cosine matching → SQLite logging → Streamlit dashboard, targeting <1s recognition time for a 30-student class.
 
