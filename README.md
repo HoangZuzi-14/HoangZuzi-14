@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:duongngohoangvu27@gmail.com"><img src="https://img.shields.io/badge/Email-duongngohoangvu27%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/HoangZuzi-14"><img src="https://img.shields.io/badge/GitHub-HoangZuzi--14-181717?style=flat&logo=github"/></a>
-  <img src="https://img.shields.io/badge/Location-Thainguyen%2C%20Vietnam-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-blue?style=flat"/>
 </p>
 
 ---
@@ -14,7 +14,6 @@
 - 🎓 Third-year **Cybersecurity** student at **Hanoi University of Science and Technology (HUST)**
 - 🔐 Focused on **network security, penetration testing, and AI-driven threat detection**
 - 🤖 Builder of production-ready security & AI tools — from SOC-grade anomaly detectors to LLM-powered HR assistants
-- 🏆 **Top 6/86 teams** at *Hack CX in Banking Together 2026* (Hanoi)
 - 🌱 Currently deepening skills in offensive security automation and applied machine learning
 - 💬 Open to **internship opportunities** in AI security / cybersecurity engineering
 
