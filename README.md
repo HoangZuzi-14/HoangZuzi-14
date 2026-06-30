@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duong Ngo Hoang Vu</h1>
+<h1 align="center">Hi 👋, I'm HoangZuzi_14</h1>
 <h3 align="center">Cybersecurity Student @ HUST | AI & Security Automation Builder</h3>
 
 <p align="center">
