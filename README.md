@@ -25,8 +25,8 @@
 `Python` `PyTorch` `Scikit-learn` `Unsupervised Learning`
 End-to-end ML pipeline (log ingestion → autoencoder → threshold alert) trained on 10,000+ network traffic records, achieving **>97% accuracy** detecting unlabeled anomalies — deployable as a standalone SOC module. *(University Course Project — Team Lead)*
 
-#### 🕷️ NV Web Vulnerability Scanner *(In Progress)*
-`Python` `OWASP Top 10` `Requests` `BeautifulSoup`
+#### 🕷️ Web Vulnerability Scanner *(In Progress)*
+`Python` `OWASP Top 10` `Requests`
 Automated scanner that crawls every endpoint on a target host and tests against the full OWASP Top 10 (SQLi, XSS, IDOR, etc.), generating structured vulnerability reports for fast triage.
 
 #### 📷 [Face Recognition Attendance System](https://github.com/HoangZuzi-14/Face-Recognition-Attendance-System)
@@ -78,9 +78,7 @@ AI Agent-based recruitment assistant for banking HR workflows, featuring CV anal
 ---
 
 ### 📫 Let's Connect
-
 - 📧 **Email:** duongngohoangvu27@gmail.com
-- 📱 **Phone:** (+84) 983 746 111
 - 🐙 **GitHub:** [github.com/HoangZuzi-14](https://github.com/HoangZuzi-14)
 
 <p align="center"><i>Open to internships and collaboration in cybersecurity, AI security, and security automation.</i></p>
